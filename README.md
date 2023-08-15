@@ -2,7 +2,7 @@
 - 👀 I’m interested in encounterplus content
 - 🌱 I’m currently learning how to build a campaign in E+
 - 💞️ I’m looking to collaborate on modules, maps, compendiums and more from iOS 
-- 📫 How to reach me here: email grandriddler25@gmail.com
+- 📫 How to reach me here: grandriddler25@gmail.com
 
 <!---
 173Questions/173Questions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
